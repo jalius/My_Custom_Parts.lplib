@@ -1,0 +1,10 @@
+(librepcb_library 6b91ecff-db5c-48b9-971f-964f86ae0de9
+ (name "My Custom Parts")
+ (description "")
+ (keywords "")
+ (author "Jalius")
+ (version "0.1")
+ (created 2020-12-25T20:51:08Z)
+ (deprecated false)
+ (url "https://github.com/jalius/My_Custom_Parts.lplib.git")
+)

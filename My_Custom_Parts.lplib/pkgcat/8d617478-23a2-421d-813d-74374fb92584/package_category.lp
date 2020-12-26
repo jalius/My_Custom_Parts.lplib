@@ -1,0 +1,10 @@
+(librepcb_package_category 8d617478-23a2-421d-813d-74374fb92584
+ (name "Dev/Eval Boards")
+ (description "")
+ (keywords "")
+ (author "Jalius")
+ (version "0.1")
+ (created 2020-12-25T21:34:15Z)
+ (deprecated false)
+ (parent none)
+)
